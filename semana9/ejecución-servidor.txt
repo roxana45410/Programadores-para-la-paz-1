@@ -1,0 +1,3 @@
+Al ejecutar `node server.js` el programa inicia y se queda esperando conexiones.
+En la terminal aparece el mensaje: "Servidor ejecutándose en puerto 3000".
+Al visitar la ruta /estado se recibe una respuesta en formato JSON que confirma que el servicio está operativo.
