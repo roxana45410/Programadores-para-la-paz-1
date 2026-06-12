@@ -1,0 +1,6 @@
+
+1. No exponer datos personales de los usuarios.
+2. Proteger credenciales y contraseñas de acceso.
+3. Usar conexiones seguras para compartir información.
+4. Verificar la información antes de publicarla.
+5. Limitar el acceso solo a personas autorizadas.

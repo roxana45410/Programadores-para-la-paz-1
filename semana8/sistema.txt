@@ -1,0 +1,9 @@
+¿Qué muestra cada comando?
+ 
+
+ -  uname -a : Muestra el nombre del sistema operativo, versión del núcleo, tipo de procesador y detalles del equipo.
+
+ -  whoami : Indica el nombre del usuario que está trabajando en la terminal.
+  
+  ¿Por qué es útil al administrar un servidor?
+  Ayuda a conocer el entorno de trabajo, verificar compatibilidad, identificar fallos y confirmar que tenemos los permisos necesarios para gestionar el sistema.
