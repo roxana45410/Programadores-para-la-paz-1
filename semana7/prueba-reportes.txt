@@ -1,0 +1,1 @@
+Al enviar un reporte por POST a /reportes, el sistema lo guarda y le asigna un número de identificación. Al consultar con GET a la misma dirección, muestra la lista completa. Los datos se mantienen mientras el servidor esté encendido; al reiniciarlo, se borran porque están en memoria temporal.
