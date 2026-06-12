@@ -1,0 +1,13 @@
+Al enviar una petición POST a http://localhost:3000/registro con el siguiente contenido:
+{
+      "nombre": "Maria",
+        "mensaje": "Hola comunidad"
+}
+
+El servidor responde confirmando que recibió la información:
+{
+      "estado": "Datos recibidos",
+        "nombre": "Maria",
+          "mensaje": "Hola comunidad"
+}
+
