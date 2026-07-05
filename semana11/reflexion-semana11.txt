@@ -1,0 +1,7 @@
+Una plataforma de participación necesita base de datos para guardar y ordenar todo sin que se pierda. Así se puede consultar y dar seguimiento fácilmente.
+
+La autenticación permite saber quién participa y definir qué puede hacer cada uno, evitando accesos indebidos.
+
+Proteger los datos es fundamental: si se exponen, se pierde confianza y se corre riesgo con las personas.
+
+Cuando todo está organizado y seguro, la comunidad participa con tranquilidad y siente que se respeta su información. De esta forma la herramienta cumple su fin: servir y cuidar al mismo tiempo.

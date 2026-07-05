@@ -1,0 +1,7 @@
+Tendrá formulario sencillo para registrar nuevo reporte: título, descripción y zona.
+
+Mostrará lista con todos los reportes activos y su estado.
+
+Cada uno tendrá espacio para ver avances y botón para enviar observaciones.
+
+También contará con acceso seguro para iniciar sesión. Todo será claro y sin mostrar datos personales.

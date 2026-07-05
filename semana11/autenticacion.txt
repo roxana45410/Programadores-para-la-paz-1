@@ -1,0 +1,5 @@
+El inicio de sesión sirve para saber quién entra y diferenciar lo que cada persona puede hacer.
+
+Hay rutas protegidas porque no todo debe ser público: hay registros, configuraciones o datos que solo deben ver personas autorizadas.
+
+No se debe mostrar ni compartir contraseñas, documentos, direcciones, teléfonos, claves ni tokens. Solo así se cuida la privacidad y evitamos malos usos.

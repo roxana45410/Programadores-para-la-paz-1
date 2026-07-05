@@ -1,0 +1,19 @@
+Entidad: Reporte
+Campos principales:
+- id
+- titulo
+- descripcion
+- zona
+- fecha
+
+Propósito: Guardar situaciones o necesidades que presenta la comunidad.
+
+Entidad: Seguimiento
+Campos principales:
+- id
+- reporte_id
+- estado
+- observacion
+- fecha
+
+Propósito: Registrar avance y cambios de cada reporte para dar seguimiento ordenado.
