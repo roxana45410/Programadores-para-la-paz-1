@@ -1,0 +1,7 @@
+Tareas primeras: registrar reporte + aviso al coordinador
+¿Por qué? Son la base: sin esto no entra información ni empieza el proceso
+
+Definición de “TERMINADO”:
+• Funciona sin errores
+• Fue probado
+• Quedó registrado

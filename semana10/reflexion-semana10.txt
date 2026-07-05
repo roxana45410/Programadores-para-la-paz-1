@@ -1,0 +1,3 @@
+Las metodologías ágiles permiten trabajar por pasos claros y priorizar lo más necesario. Con el backlog todo queda ordenado y visible. Las iteraciones ayudan a revisar y corregir a tiempo.
+
+Herramientas como n8n y Telegram facilitan la coordinación y avisan rápido, siempre sin exponer datos delicados. Así la participación es más organizada, segura y la comunidad ve que avanza.

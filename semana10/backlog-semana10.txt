@@ -1,0 +1,4 @@
+1. Como ciudadano quiero registrar un reporte sencillo para dejar evidencia.
+2. Como coordinador quiero recibir aviso rápido cuando llega un nuevo caso.
+3. Como miembro quiero ver lista de reportes para hacer seguimiento.
+4. Como responsable quiero marcar estado: nuevo / en revisión / resuelto.

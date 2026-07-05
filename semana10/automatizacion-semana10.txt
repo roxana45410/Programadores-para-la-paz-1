@@ -1,0 +1,4 @@
+Evento: nuevo reporte registrado
+Acción: mensaje automático por Telegram
+Mensaje: “Hay un nuevo reporte. Revisar en el sistema”
+NO enviar: nombres, cédulas, direcciones, teléfonos ni claves
