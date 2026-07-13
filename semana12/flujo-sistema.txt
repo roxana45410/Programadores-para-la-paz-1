@@ -1,0 +1,8 @@
+Flujo del sistema "Petición en 3 Clics":
+
+1. Una persona de la comunidad ingresa los datos de una causa que quiere impulsar.
+2. La información de la causa se guarda de forma ordenada en la base de datos.
+3. Otras personas pueden ver la causa y registrar su apoyo de manera sencilla.
+4. El sistema acumula y verifica cada apoyo recibido para evitar duplicados.
+5. Cuando se solicita, el sistema junta toda la información y genera el documento formal en PDF.
+6. El documento queda listo para ser descargado y presentado ante las autoridades.

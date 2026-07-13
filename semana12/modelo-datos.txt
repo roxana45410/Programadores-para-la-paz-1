@@ -1,0 +1,17 @@
+Modelo de datos básico:
+
+1. Entidad: Causa
+Sirve para guardar toda la información de cada iniciativa que la comunidad crea.
+Campos:
+- id: Identificador único de la causa
+- titulo: Nombre o tema principal de la causa
+- descripcion: Explicación de qué se pide y por qué
+- fecha: Día y hora en que se creó la causa
+
+2. Entidad: Apoyo
+Sirve para registrar el respaldo de las personas a cada causa específica.
+Campos:
+- id: Identificador único del apoyo
+- causa_id: Relaciona este apoyo con la causa correspondiente
+- nombre: Nombre de quien brinda el apoyo
+- fecha: Día y hora en que se registró el apoyo
